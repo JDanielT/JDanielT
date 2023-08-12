@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=JDanielT&show_icons=true" width="400">
 
 I'm an experienced IT professional with over 10 years of expertise in Rest APIs, Spring, and Java. Additionally, I am an Oracle-certified professional. My strong technical skills, coupled with my ability to adapt to new technologies, make me a valuable asset to any team.
 
